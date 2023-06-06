@@ -1,6 +1,6 @@
 module github.com/submariner-io/coastguard
 
-go 1.18
+go 1.20
 
 require (
 	github.com/onsi/ginkgo/v2 v2.13.0
